@@ -3,6 +3,6 @@
 
 Winform & Command-line utility for changing the password of a user on a domain. 
 
-In current fork, a form is added in favor of user friendliness.
+In current fork, a form is added in favor of user friendliness while keep compatibility with original commandline usage.
 
-In original author's current corporate environment, all other ways I've tried for changing the password of a domain user **other than the one currently logged on** has failed (except for doing it directly while logged on to the domain controller itself). Also, works well with KeePass autotype.
+In original author's current corporate environment, all other ways he's tried for changing the password of a domain user **other than the one currently logged on** has failed (except for doing it directly while logged on to the domain controller itself). Also, works well with KeePass autotype.
